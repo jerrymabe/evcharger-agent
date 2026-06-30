@@ -1,0 +1,20 @@
+# Secrets & credentials
+.streamlit/secrets.toml
+
+# Local databases
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Scratch files
+copy.html
+
+# macOS
+.DS_Store
