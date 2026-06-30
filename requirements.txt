@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+geopy
+streamlit-geolocation
+st-copy
+pydantic
+altair
+pandas
